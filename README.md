@@ -1,4 +1,4 @@
-![logo](https://github.com/EE-RahulKumarJha/EE-RahulKumarJha/blob/main/My%20Profile%20(2).png)
+![logo](https://github.com/EE-RahulKumarJha/EE-RahulKumarJha/blob/main/My%20Profile%20(1).png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jha</h1>
 <h3 align="center">A Passionate Electrical Engineer from Nepal</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
