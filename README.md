@@ -1,4 +1,5 @@
 ![logo](https://github.com/EE-RahulKumarJha/EE-RahulKumarJha/blob/main/My%20Profile%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jha</h1>
 <h3 align="center">A Passionate Electrical Engineer from Nepal</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -8,6 +9,7 @@
 
 - 🔭 I’m currently working on [Power Conversion Using Matrix Converter](https://drive.google.com/file/d/1ThS80SFlpGNdEoDtJ2Tn5FqD6ZbKKAVs/view?usp=share_link)
 - 🔭 My Currently completed Project  [Transient Analysis of 9-Bus System using ETAP](https://drive.google.com/drive/folders/1MALFLBokVJYM8Jak7-IqukXxqYM6D7Cj?usp=share_link)
+<img align="right"alt="Engineering"width="100"src="https://www.careerguide.com/career/wp-content/uploads/2021/02/engineering-gif-5-1.gif">
 
 - 🌱 I’m currently learning **Electrical Circuits, Digital Signal Processing, Power Systems, Control Systems, Renewable Energy**
 
