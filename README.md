@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jha</h1>
 
 <h3 align="center">A Passionate Electrical Engineer from Nepal</h3>
+<img align="center"alt="Engineering"width="240"src="https://www.careerguide.com/career/wp-content/uploads/2021/02/engineering-gif-5-1.gif">
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ee-rahulkumarjha&label=Profile%20views&color=0e75b6&style=flat" alt="ee-rahulkumarjha" /> </p>
@@ -14,6 +15,7 @@
 
 - 🔭 I’m currently working on [Power Conversion Using Matrix Converter](https://drive.google.com/file/d/1ThS80SFlpGNdEoDtJ2Tn5FqD6ZbKKAVs/view?usp=share_link)
 - 🔭 My Currently completed Project  [Transient Analysis of 9-Bus System using ETAP](https://drive.google.com/drive/folders/1MALFLBokVJYM8Jak7-IqukXxqYM6D7Cj?usp=share_link)
+
 - 🌱 I’m currently learning **Electrical Circuits, Digital Signal Processing, Power Systems, Control Systems, Renewable Energy**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
@@ -33,3 +35,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ee-rahulkumarjha&" alt="ee-rahulkumarjha" /></p>
+
+<p><img align="right"alt="Engineering"width="300"src="https://2.bp.blogspot.com/-Xb51CArSgeQ/WE58QURxTmI/AAAAAAAMSN4/IGPuyFq7XTkl01JYoYzdDJ3hoZIJ-3CJACLcB/s1600/AW302981_11.gif">
+ <img align="left"alt="Engineering"width="210"src="https://th.bing.com/th/id/R.9e5339ff8210c67b3b63c56793e8b667?rik=ucdLpRhJpxMfkA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-guEjV_pu2Gg%2fUMdZgrqrS3I%2fAAAAAAAAAEk%2fixcgS8uP6GE%2fs1600%2fpika%2bdancer.gif&ehk=Y%2bw1SOsRQxtJd49cLvqXUjrBhsqQ%2fogjL45zUNiX4VU%3d&risl=&pid=ImgRaw&r=0"></p>
