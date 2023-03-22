@@ -33,4 +33,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ee-rahulkumarjha&" alt="ee-rahulkumarjha" /></p>
 
 <p><img align="right"alt="Engineering"width="300"src="https://2.bp.blogspot.com/-Xb51CArSgeQ/WE58QURxTmI/AAAAAAAMSN4/IGPuyFq7XTkl01JYoYzdDJ3hoZIJ-3CJACLcB/s1600/AW302981_11.gif">
- <img align="left"alt="Engineering"width="300"src="https://th.bing.com/th/id/OIP.S-L4VPKRJsmhaQuvmAZKFgAAAA?pid=ImgDet&rs=1"></p>
+ <img align="left"alt="Engineering"width="210"src="https://th.bing.com/th/id/R.9e5339ff8210c67b3b63c56793e8b667?rik=ucdLpRhJpxMfkA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-guEjV_pu2Gg%2fUMdZgrqrS3I%2fAAAAAAAAAEk%2fixcgS8uP6GE%2fs1600%2fpika%2bdancer.gif&ehk=Y%2bw1SOsRQxtJd49cLvqXUjrBhsqQ%2fogjL45zUNiX4VU%3d&risl=&pid=ImgRaw&r=0"></p>
