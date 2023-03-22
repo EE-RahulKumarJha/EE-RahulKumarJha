@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ee-rahulkumarjha&" alt="ee-rahulkumarjha" /></p>
 
-<p><img align="right"alt="Engineering"width="240"src="https://2.bp.blogspot.com/-Xb51CArSgeQ/WE58QURxTmI/AAAAAAAMSN4/IGPuyFq7XTkl01JYoYzdDJ3hoZIJ-3CJACLcB/s1600/AW302981_11.gif">
- <img align="left"alt="Engineering"width="240"src="https://th.bing.com/th/id/OIP.XpdVmHbfJsDzZ_GqmOEIWgHaFU?pid=ImgDet&rs=1"></p>
+<p><img align="right"alt="Engineering"width="300"src="https://2.bp.blogspot.com/-Xb51CArSgeQ/WE58QURxTmI/AAAAAAAMSN4/IGPuyFq7XTkl01JYoYzdDJ3hoZIJ-3CJACLcB/s1600/AW302981_11.gif">
+ <img align="left"alt="Engineering"width="300"src="https://th.bing.com/th/id/OIP.S-L4VPKRJsmhaQuvmAZKFgAAAA?pid=ImgDet&rs=1"></p>
