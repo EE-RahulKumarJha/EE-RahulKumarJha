@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Electrical Circuits, Digital Signal Processing, Power Systems, Control Systems, Renewable Energy**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning**
+- 💬 Ask me about **Python, Data Science,Power System, Electrical Machine, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
