@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Electrical Circuits, Digital Signal Processing, Power Systems, Control Systems, Renewable Energy**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EE-RahulKumarJha&theme=radical)
+
 <p>
 <img align="left"alt="coding"width="200"src="https://i.pinimg.com/originals/c8/a6/2c/c8a62c3f14fdf027de13e1755ddd0ec6.gif"></p>
 <h3 align="left">Languages and Tools:</h3>
