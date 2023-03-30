@@ -8,7 +8,7 @@
 <p><img align="left"alt="Engineering"width="150"src="https://www.careerguide.com/career/wp-content/uploads/2021/02/engineering-gif-5-1.gif"><img align="left"alt="Engineering"width="150"src="https://www.careerguide.com/career/wp-content/uploads/2021/02/engineering-gif-5-1.gif"><img align="right"alt="Engineering"width="150"src="https://www.careerguide.com/career/wp-content/uploads/2021/02/engineering-gif-5-1.gif"><img align="right"alt="Engineering"width="150"src="https://www.careerguide.com/career/wp-content/uploads/2021/02/engineering-gif-5-1.gif"></p>
 <p><img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
 
-<p > <img src="https://komarev.com/ghpvc/?username=ee-rahulkumarjha&label=Profile%20views&color=0e75b6&style=flat" alt="ee-rahulkumarjha" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ee-rahulkumarjha&label=Profile%20views&color=0e75b6&style=flat" alt="ee-rahulkumarjha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/RahulKrjha01" target="blank"><img src="https://img.shields.io/twitter/follow/RahulKrjha01?logo=twitter&style=for-the-badge" alt="akrahuljha" /></a> </p>
 
