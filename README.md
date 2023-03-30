@@ -36,6 +36,17 @@
   <img src="https://streak-stats.demolab.com?user=EE-RahulKumarJha&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EE-RahulKumarJha &theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/RahulKumarJha) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
