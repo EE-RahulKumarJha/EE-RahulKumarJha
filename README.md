@@ -1,4 +1,4 @@
-![logo](https://github.com/EE-RahulKumarJha/EE-RahulKumarJha/blob/main/My%20Profile%20(2).png)
+
 
 
 
