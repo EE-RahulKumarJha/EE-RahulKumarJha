@@ -1,4 +1,5 @@
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 
@@ -21,6 +22,13 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EE-RahulKumarJha&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EE-RahulKumarJha&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EE-RahulKumarJha&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p>
 <img align="left"alt="coding"width="200"src="https://i.pinimg.com/originals/c8/a6/2c/c8a62c3f14fdf027de13e1755ddd0ec6.gif"></p>
 <h3 align="left">Languages and Tools:</h3>
@@ -31,10 +39,6 @@
 <br clear="both">
 <p align="center">
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EE-RahulKumarJha&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EE-RahulKumarJha&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EE-RahulKumarJha&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EE-RahulKumarJha&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
@@ -44,8 +48,7 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
   ## 💰 You can help me by Donating
  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RahulKumarJha) 
