@@ -1,9 +1,10 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 
-<h1 align="center">Hi 👋, I'm Rahul Kumar Jha</h1>
+
+
+<h1 align="center">Hi 👋, I'm Rahul Kumar Jha </br>
+Glad to see you</h1>
 
 
 
@@ -56,5 +57,5 @@
 
   
 </p>
-
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
