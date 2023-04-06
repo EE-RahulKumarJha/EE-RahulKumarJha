@@ -42,7 +42,8 @@ Glad to see you</h1>
   
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EE-RahulKumarJha&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EE-RahulKumarJha)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 </div>
