@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar Jha </br>
-Glad to see you
+
 <p>
 
 
