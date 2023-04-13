@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋
   </br>I'm Rahul Kumar Jha </br>
+  I am an Electrical Engineering Student</br>
 
 <p>
 
