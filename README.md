@@ -5,8 +5,6 @@
 
 <p>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
  <a href='https://docs.github.com/en/developers'><img align="center" src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> </a> 
   </p></h1>
 
@@ -90,6 +88,8 @@
   </br>
 </p>
 
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
