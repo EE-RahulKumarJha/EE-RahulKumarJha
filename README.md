@@ -90,7 +90,7 @@
   </br>
 </p>
 
-![Snake animation](https://github.com/{{your_username}}/{{EE-RahulKumarJha}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{EE-RahulKumarJha}}/{{EE-RahulKumarJha}}/blob/output/github-contribution-grid-snake.svg)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
