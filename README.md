@@ -1,4 +1,5 @@
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋
   </br>I'm Rahul Kumar Jha </br>
   I am an Electrical Engineering Student</br>
@@ -86,7 +87,6 @@
 </p>
 
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
