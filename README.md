@@ -1,3 +1,5 @@
+<h2><b>“One who sees inaction in action, and action in inaction, is intelligent among men.” </br><p align="right">― Bhagavad Gita</p></b></h2>
+
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋
