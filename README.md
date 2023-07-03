@@ -20,8 +20,8 @@
 <p align="left"> <a href="https://twitter.com/RahulKrjha01" target="blank"><img src="https://img.shields.io/twitter/follow/RahulKrjha01?logo=twitter&style=for-the-badge" alt="akrahuljha" /></a> </p>
 
 
-- 🔭 I’m currently working on [Power Conversion Using Matrix Converter](https://drive.google.com/file/d/1ThS80SFlpGNdEoDtJ2Tn5FqD6ZbKKAVs/view?usp=share_link)
-- 🔭 My Currently completed Project  [Transient Analysis of 9-Bus System using ETAP](https://drive.google.com/drive/folders/1MALFLBokVJYM8Jak7-IqukXxqYM6D7Cj?usp=share_link)
+- 🔭 My Currently completed Project [Power Conversion Using Matrix Converter](https://drive.google.com/file/d/1ThS80SFlpGNdEoDtJ2Tn5FqD6ZbKKAVs/view?usp=share_link)
+- 🔭  Another Completed Project : [Transient Analysis of 9-Bus System using ETAP](https://drive.google.com/drive/folders/1MALFLBokVJYM8Jak7-IqukXxqYM6D7Cj?usp=share_link)
 
 
 - 🌱 I’m currently learning **Electrical Circuits, Digital Signal Processing, Power Systems, Control Systems, Renewable Energy**
